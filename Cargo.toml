@@ -1,0 +1,8 @@
+[package]
+name = "lipi"
+version = "0.1.0"
+authors = ["Plaban Kumar Mondal <plaban.kr.mondal00@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+eframe = "0.30.0"
