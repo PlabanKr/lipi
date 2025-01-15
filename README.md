@@ -16,6 +16,6 @@ This project is a simple text editor built in rust.
 
 3. **Run the project:**
 
-  ```bash
-  cargo run
-  ```
+    ```bash
+    cargo run
+    ```
